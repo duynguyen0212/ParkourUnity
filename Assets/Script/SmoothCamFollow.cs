@@ -6,4 +6,5 @@ public class SmoothCamFollow : MonoBehaviour
 {
     private Vector3 offset;
     
+    
 }
